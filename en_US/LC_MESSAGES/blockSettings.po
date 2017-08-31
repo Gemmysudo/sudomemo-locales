@@ -41,7 +41,7 @@ msgid "UNBLOCK_USER"
 msgstr "Deblokkeer gebruiker"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "U kuny deze gebruiker niet deblokkeren, omdat u hun niet hebt geblokkerd."
+msgstr "U kunt deze gebruiker niet deblokkeren, omdat u hun niet hebt geblokkerd."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
 msgstr "Deze gebruiker is gedeblokkeerd."
