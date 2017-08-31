@@ -1,38 +1,38 @@
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "You need to be logged in to manage blocked users."
+msgstr "U moet ingelogd zijn om uw geblokkeerde gebruikers te weergeven."
 
-msgid "NO_USERS_BLOCKED"
-msgstr "You have no blocked users."
+msgid "NO_USERS_BLOCKE
+msgstr "U heeft geen geblokkeerde gebruikers."
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked Users"
+msgstr "Geblokkeerde gebruikers"
 
 msgid "BLOCK_USER"
-msgstr "Block User"
+msgstr "Blokkeer gebruiker"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Once you have blocked this user, you will no longer be able to comment on each other's Flipnotes."
+msgstr "Zodra u deze gebruiker blokkeert, kunnen jullie elkaar geen reacties meer geven op elkaars flipnotes."
 
 msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "This user has been blocked."
+msgstr "Deze gebruiker is geblokkeerd."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "If you should ever wish to unblock them, you may unblock them by visiting your Creator's Room and opening the Blocked Users menu."
+msgstr "Als u deze gebruiker wilt deblokkeren, moet u alleen maar naar uw profiel te gaan en of "Geblokkeerde gebruikers" drukken."
 
 msgid "CONFIRM_BLOCK"
-msgstr "Confirm Block"
+msgstr "Blokkeren confirmeren"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "You have already blocked this user. You may unblock them from the Settings menu in your Creator's Room, but you must wait 24 hours before you can block them again."
+msgstr "U heeft deze gebruiker al geblokkeerd. U kunt deze persoon deblokkeren, maar dan moet u 24 uur wachten voordat u hem opnieuw kan blokkeren."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "You have recently unblocked this user. You cannot block them again until %s"
+msgstr "U heeft deze persoon gedeblokkeerd. U kunt hem pas weer blokkeren om %s"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Deblokkeer"
 
 msgid "LOGIN_REQUIRED"
-msgstr "You must be logged in to perform this action."
+msgstr "U moet ingelogd zijn om deze actie uit te voeren."
 
 msgid "TAP_BACK_TO_RETURN"
 msgstr "Tap Back to return to your Creator's Room."
